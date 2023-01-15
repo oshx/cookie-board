@@ -1,9 +1,18 @@
+html,
+body,
+div,
+p {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-color: #000;
   color: #eee;
 }
 
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   min-height: 100%;
